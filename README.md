@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Finsweet clone app with ReactJs
 
 Live preview in Browser: https://finsweet-app-clone.vercel.app/
 
