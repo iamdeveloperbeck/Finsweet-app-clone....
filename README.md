@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+Live preview in Browser: https://finsweet-app-clone.vercel.app/
+
+![screencapture-finsweet-app-clone-vercel-app-2023-02-05-23_06_22](https://user-images.githubusercontent.com/85181067/216836987-24e4e6c3-fc91-46e5-b8b7-8c1fb6505b5f.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
